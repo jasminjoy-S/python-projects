@@ -1,4 +1,4 @@
-# Tutorial : https://ruslanspivak.com/lsbasi-part1/
+# Tutorial : https://ruslanspivak.com
 # Token types
 #
 # EOF (end-of-file) token is used to indicate that
